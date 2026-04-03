@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2f9ad698acd1ace48b796aff41a6684a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wrongXPrefab: {fileID: 2610870190166938198, guid: 51ef676016d35b840a05c14093984654, type: 3}
+  - correctStarPrefab: {fileID: 8803672491835500481, guid: 3feecf7c9967c0541b7b88cc5d329927, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
